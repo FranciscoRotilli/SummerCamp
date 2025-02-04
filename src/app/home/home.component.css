@@ -1,0 +1,31 @@
+.bg {
+    background-color: lightgray;
+    width: 100%;
+    height: 100vh;
+}
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    gap: 50px;
+}
+.bloco1 {
+    background-color: grey;
+    display: inline-block;
+    width: 45%;
+    padding: 20px
+}
+.bloco2 {
+    background-color: beige;
+    display: inline-block;
+    width: 45%;
+    padding: 20px
+}
+.botao {
+    display: inline-block;
+    margin-bottom: 5em;
+    width: 100%;
+    height: 5em;
+}
